@@ -1,0 +1,13 @@
+# COBOL compiled binaries
+bankmain
+seeddata
+
+# Generated data files
+*.dat
+RPTFILE.txt
+
+# Maven build output
+bank-modern/target/
+
+# macOS
+.DS_Store
